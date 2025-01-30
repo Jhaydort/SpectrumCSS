@@ -1,0 +1,2 @@
+# SpectrumCSS
+Css Hexcode generator
